@@ -56,7 +56,7 @@ public class Report {
     }
 
     /**
-     * Truncates the description if it's longer than 50 characters, else returns the description without changes.
+     * Splits the description if it's longer than 50 characters, else returns the description without changes.
      *
      * @param description
      * @return {@link String}
