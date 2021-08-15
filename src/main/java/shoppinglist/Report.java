@@ -8,7 +8,7 @@ import java.util.List;
 public class Report {
 
     /**
-     * Creates a report for home made products list received as a parameter.
+     * Creates a report for homemade products list received as a parameter.
      *
      * @param productList the product list.
      * @return {@link String} the report of home made products in string format.
